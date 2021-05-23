@@ -6,7 +6,7 @@ As A Data Analyst for PyBer, a Python based ride sharing app company, my assignm
 ## Results
 I created A PyBer summary DataFrame to showcase my finding:
 
-![Pyber_summary_df](https://user-images.githubusercontent.com/81998045/119245684-1b4d7580-bb49-11eb-87de-fac7631c6526.png)
+
 
 
 
