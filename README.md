@@ -22,7 +22,15 @@ To further analyze the data, I then created a DataFrame and line graph to showca
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/81998045/119250721-02a48600-bb70-11eb-810b-2dfd3bbaee59.png)
 
-## Summary of Findings and Recommendations
+## Summary and Recommendations
+Based on our findings and vizualizations 3 recommendations we can provide for the CEO:
+
+1) Increase accessibilty to PyBer drivers by increasing the number of drivers in rural city types, the more drivers available the more likely the average fare per ride will decrease with the demand by having enough drivers to supply the demand. 
+
+2)
+
+3)
+
 
 
 
