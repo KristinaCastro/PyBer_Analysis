@@ -8,7 +8,7 @@ I created A PyBer summary DataFrame to showcase my finding:
 
 ![Screen Shot 2021-05-22 at 10 47 34 PM](https://user-images.githubusercontent.com/81998045/119246457-c4976a00-bb4f-11eb-8faf-427f20053a1d.png)
 
-
+The PyBer summary DataFrame shows us that  
 
 
 
